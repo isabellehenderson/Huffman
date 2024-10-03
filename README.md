@@ -14,10 +14,10 @@ This project implements a Huffman coding system for text file compression and de
 
 The project consists of four main Java classes:
 
-1. `HuffmanCode.java`: Implements the core Huffman coding algorithm, including tree construction and code generation[1].
-2. `BitOutputStream.java`: Provides functionality to write individual bits to an output stream[2].
-3. `BitInputStream.java`: Allows reading of individual bits from an input stream[3].
-4. `HuffmanCompressor.java`: Serves as the main interface for the compression and decompression processes[4].
+1. `HuffmanCode.java`: Implements the core Huffman coding algorithm, including tree construction and code generation.
+2. `BitOutputStream.java`: Provides functionality to write individual bits to an output stream.
+3. `BitInputStream.java`: Allows reading of individual bits from an input stream.
+4. `HuffmanCompressor.java`: Serves as the main interface for the compression and decompression processes.
 
 ## Getting Started
 
